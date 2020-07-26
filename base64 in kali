@@ -1,0 +1,4 @@
+# how to encode base64 ?
+echo hello | base64 
+# how to decode base64 ?
+echo ffjnGFJADK | base64 -d
